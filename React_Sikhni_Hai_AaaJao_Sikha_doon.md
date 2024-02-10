@@ -101,7 +101,7 @@ Complete React Roadmap 🔥
 |       |-- React Query (Data Fetching Library)
 |       |-- SWR (Stale-While-Revalidate)
 |       |-- Vercel (Deployment Platform)
-|       |-- Netlify (Deployment and Hosting)
+|       |-- Netlify (Deployment and Hosting) 
 |      └─ AWS Amplify (Cloud Services)
 |
 |--- Mobile and Desktop Applications
